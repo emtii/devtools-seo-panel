@@ -7,3 +7,5 @@
  */
 
 // @TODO: magic...
+
+document.write("hi");
